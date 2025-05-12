@@ -462,6 +462,8 @@
 
 ## Python
 
+* 【2025-05-12】[remsky / Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
+* 【2025-05-12】[airweave-ai / airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app or database
 * 【2025-05-11】[langgenius / dify-official-plugins](https://github.com/langgenius/dify-official-plugins) - 
 * 【2025-05-10】[bee-san / Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * 【2025-05-09】[huggingface / smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.

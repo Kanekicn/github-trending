@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-08-14】[apple / embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
+* 【2025-08-14】[microsoft / poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 * 【2025-08-11】[idosal / git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 * 【2025-08-10】[lfnovo / open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 * 【2025-08-09】[openai / codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -592,6 +594,10 @@
 
 ## Python
 
+* 【2025-08-14】[microsoft / magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
+* 【2025-08-14】[browserbase / stagehand-python](https://github.com/browserbase/stagehand-python) - The AI Browser Automation Framework
+* 【2025-08-14】[trailofbits / buttercup](https://github.com/trailofbits/buttercup) - 
+* 【2025-08-14】[oop7 / YTSage](https://github.com/oop7/YTSage) - Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.
 * 【2025-08-11】[omkarcloud / botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 * 【2025-08-10】[Pointcept / Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 * 【2025-08-10】[dataease / SQLBot](https://github.com/dataease/SQLBot) - 基于大模型和 RAG 的智能问数系统
@@ -982,6 +988,8 @@
 
 ## Javascript
 
+* 【2025-08-14】[mikechambers / adb-mcp](https://github.com/mikechambers/adb-mcp) - 
+* 【2025-08-14】[asgeirtj / system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 * 【2025-08-09】[benborla / mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.
 * 【2025-08-09】[Kaliiiiiiiiii-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
 * 【2025-08-09】[automerge / automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -1171,6 +1179,7 @@
 
 ## Go
 
+* 【2025-08-14】[mudler / LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).
 * 【2025-08-11】[sammcj / gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 * 【2025-08-09】[maximhq / bifrost](https://github.com/maximhq/bifrost) - The Fastest LLM Gateway with built in OTel observability and MCP gateway
 * 【2025-08-03】[hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases

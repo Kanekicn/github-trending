@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-11-12】[google / adk-web](https://github.com/google/adk-web) - Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.
+* 【2025-11-12】[WICG / email-verification-protocol](https://github.com/WICG/email-verification-protocol) - verified autofill
 * 【2025-11-11】[lzhoang2801 / OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
 * 【2025-11-11】[microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
 * 【2025-11-11】[opencloud-eu / opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
@@ -579,6 +581,7 @@
 
 ## Java
 
+* 【2025-11-12】[bancika / diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 * 【2025-11-11】[JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 * 【2025-11-03】[typetools / checker-framework](https://github.com/typetools/checker-framework) - Pluggable type-checking for Java
 * 【2025-11-01】[Tosencen / XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
@@ -744,6 +747,8 @@
 
 ## Python
 
+* 【2025-11-12】[GibsonAI / Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+* 【2025-11-12】[alibaba / ROLL](https://github.com/alibaba/ROLL) - An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models
 * 【2025-11-10】[OpenHands / OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2025-11-10】[mozilla-ai / any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
 * 【2025-11-09】[google-deepmind / mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
@@ -1488,6 +1493,7 @@
 
 ## Go
 
+* 【2025-11-12】[lin-snow / Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 * 【2025-11-10】[kimdre / doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 * 【2025-11-09】[google / adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-11-09】[coze-dev / coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
@@ -1911,6 +1917,8 @@
 
 ## C++
 
+* 【2025-11-12】[perspective-dev / perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+* 【2025-11-12】[NVIDIA / CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 * 【2025-11-11】[WiVRn / WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
 * 【2025-11-11】[TheAssassin / AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 * 【2025-11-08】[nndeploy / nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework
@@ -2108,6 +2116,7 @@
 
 ## C#
 
+* 【2025-11-12】[lingarr-translate / lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies translating subtitles.
 * 【2025-11-11】[genaray / Arch](https://github.com/genaray/Arch) - A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
 * 【2025-11-04】[ZehsTeam / REPOLib](https://github.com/ZehsTeam/REPOLib) - Library for adding content to R.E.P.O.
 * 【2025-11-01】[builtbybel / FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
@@ -2452,6 +2461,7 @@
 
 ## Css
 
+* 【2025-11-12】[loof2736 / scyfin](https://github.com/loof2736/scyfin) - Custom theme for Jellyfin WebUI
 * 【2025-11-09】[Au5-ai / Au5](https://github.com/Au5-ai/Au5) - Self-hosted real-time meeting note tacker for google meet.
 * 【2025-11-08】[GregTech-Odyssey / GregTech-Odyssey](https://github.com/GregTech-Odyssey/GregTech-Odyssey) - 
 * 【2025-10-29】[n00bcodr / Jellyfish](https://github.com/n00bcodr/Jellyfish) - Jellyfin Theme inspired by Flow, Zesty and Ultrachromic
@@ -2578,6 +2588,7 @@
 
 ## Unknown
 
+* 【2025-11-12】[datawhalechina / team-learning](https://github.com/datawhalechina/team-learning) - 主要展示Datawhale的组队学习计划。
 * 【2025-11-09】[Lets-DevOps / awesome-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
 * 【2025-11-08】[MoonshotAI / Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 * 【2025-11-07】[reqable / reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo

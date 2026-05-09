@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-05-09】[flutter / skills](https://github.com/flutter/skills) - 
 * 【2026-05-08】[aaif-goose / goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 * 【2026-05-07】[addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 * 【2026-05-07】[anthropics / financial-services](https://github.com/anthropics/financial-services) - 

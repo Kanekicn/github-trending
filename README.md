@@ -3131,6 +3131,7 @@
 
 ## C
 
+* 【2026-10-03】[martanne / vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 * 【2026-10-02】[FoloToy / ai-passport](https://github.com/FoloToy/ai-passport) - FOLOTOY AI Passport develop resources for Agent
 * 【2026-10-01】[itsPLK / ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) - A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
 * 【2026-09-29】[YuKongA / ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
@@ -4439,6 +4440,7 @@
 
 ## Css
 
+* 【2026-10-03】[noctalia-dev / community-templates](https://github.com/noctalia-dev/community-templates) - Community templates
 * 【2026-10-02】[bwhtech / commera](https://github.com/bwhtech/commera) - Open Source E-commerce Platform, powered by ERPNext
 * 【2026-09-29】[woowacourse / java-http](https://github.com/woowacourse/java-http) - 
 * 【2026-09-23】[NilverTI / Web-Flores](https://github.com/NilverTI/Web-Flores) - Codigo de flores amarillas para regalar / enviar a tu novia
@@ -4645,6 +4647,7 @@
 
 ## Unknown
 
+* 【2026-10-03】[LLMSecurity / awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security) - 🛡️ A curated list of resources on agent skills security: attacks, defenses, frameworks, and benchmarks for securing AI agent tool use and skill ecosystems
 * 【2026-10-02】[digitalinnovationone / dio-agent](https://github.com/digitalinnovationone/dio-agent) - Agente de IA criado pela DIO para apoiar seus estudos.
 * 【2026-10-01】[runelite / plugin-hub](https://github.com/runelite/plugin-hub) - External plugins for RuneLite
 * 【2026-09-23】[harsh-bothra / learn365](https://github.com/harsh-bothra/learn365) - This repository is about @harshbothra_'s 365 days of Learning Tweets & Mindmaps collection.
